@@ -1,0 +1,15 @@
+# CloudShell / AWS temp files
+.local/
+.amazon-q/
+.aws/
+
+# Shell / OS configs
+.bashrc
+.zshrc
+.gitconfig
+.lesshst
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
